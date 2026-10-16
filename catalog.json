@@ -1,0 +1,23 @@
+{
+  "entries": [
+    {
+      "id": "game-homebrew-1",
+      "title": "Contoh Game / App Homebrew (v1.00)",
+      "title_id": "HBRA00001",
+      "kind": "game",
+      "platform": "ps5",
+      "format": "pkg",
+      "size": "150 MB",
+      "region": "ALL",
+      "firmware": "4.xx",
+      "description": "Ini adalah deskripsi game atau aplikasi homebrew kamu yang di-host lewat github.io.",
+      "cover": "https://github.io",
+      "files": [
+        {
+          "url": "https://link-tempat-download-game-kamu.com",
+          "name": "file-game.pkg"
+        }
+      ]
+    }
+  ]
+}
