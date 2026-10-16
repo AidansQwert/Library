@@ -98,7 +98,7 @@
         });
 
     // Otomatis menyesuaikan teks URL berdasarkan domain github.io kamu
-    document.getElementById('katalog-url').innerText = window.location.href.replace(/\/\$/, '') + '/catalog.json';
+    document.getElementById('katalog-url').innerText = window.location.origin + window.location.pathname + 'catalog.json';
 </script>
 </body>
 </html>
